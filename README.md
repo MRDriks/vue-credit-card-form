@@ -1,5 +1,7 @@
 # credit-card-form
 
+Demo: https://mrdriks.github.io/vue-credit-card-form/
+
 ## Project setup
 ```
 npm install
